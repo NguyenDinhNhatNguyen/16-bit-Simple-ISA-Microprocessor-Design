@@ -79,18 +79,18 @@ We compared the Single Cycle and Pipeline implementations using two test code se
 
 ## 👥 Contributors (Group 5)
 
-| No. | Student Name | ID | Key Responsibilities |
+| No. | Student Name | ID | Responsibilities |
 |:---:|:---|:---:|:---|
-| 1 | **Tran Le Minh Dat** | 23520271 | **Team Leader**, ALU Design, Simulation |
-| 2 | Nguyen Dinh Nhat Nguyen | 23521043 | Datapath Design |
-| 3 | Trinh Nguyen Hoang Long | 24521016 | Control Unit Design |
-| 4 | Tran Hoang Trung Duc | 23520319 | Register File Design |
-| 5 | Vo Hong Duc | 23520323 | Hazard Unit Handling |
-| 6 | Ngo Tien Dat | 23520254 | Testing & Verification |
-| 7 | Tran Quang Nhat | 23521102 | Documentation & Resources |
-| 8 | Vo Thanh Toan | 23521611 | Report Writing |
-| 9 | Nguyen Thanh Hieu | 23520486 | Design Support |
-| 10 | Le Hung Phat | 23521139 | Simulation Support |
+| 1 | **Tran Le Minh Dat** | 23520271 | **Team Leader**, ALU Block Design, Pipeline. |
+| 2 | Vo Thanh Toan | 23521611 | Register File, Data Memory, Pipeline Design. |
+| 3 | Trinh Nguyen Hoang Long | 24521016 | Datapath Design, Report & Slide Support. |
+| 4 | Vo Hong Duc | 23520323 | Support ALU Design, **Main Report Writer**. |
+| 5 | Tran Hoang Trung Duc | 23520319 | JUMP Instruction Design. |
+| 6 | Ngo Tien Dat | 23520254 | Control Unit Design. |
+| 7 | Tran Quang Nhat | 23521102 | Register File Design. |
+| 8 | Nguyen Thanh Hieu | 23520486 | Register File Design, Support Data Memory Design. |
+| 9 | **Nguyen Dinh Nhat Nguyen** | 23521043 | **Main Datapath Design** (Schematic & System), **Main Slide Design**, Report Support. |
+| 10 | Le Hung Phat | 23521139 | Control Unit Design. |
 
 ---
 *Ho Chi Minh City, December 2025*
