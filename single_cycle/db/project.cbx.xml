@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="project">
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|BUSMUX:inst18|lpm_mux:$00000" CBX_FILE_NAME="mux_nmc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|BUSMUX:inst9|lpm_mux:$00000" CBX_FILE_NAME="mux_boc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|DIV:inst11|DIVLAYER:inst40|BUSMUX:inst18|lpm_mux:$00000" CBX_FILE_NAME="mux_aoc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|Shift_1_2:inst6|BUSMUX:inst10|lpm_mux:$00000" CBX_FILE_NAME="mux_boc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|au:inst|mux_au:inst7|BUSMUX:inst6|lpm_mux:$00000" CBX_FILE_NAME="mux_boc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|Alucontrol:inst1|BUSMUX:inst2|lpm_mux:$00000" CBX_FILE_NAME="mux_omc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|DIV:inst11|DIVLAYER:inst50|BUSMUX:inst18|lpm_mux:$00000" CBX_FILE_NAME="mux_aoc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|au:inst|mux_au:inst7|BUSMUX:inst7|lpm_mux:$00000" CBX_FILE_NAME="mux_boc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|Alucontrol:inst1|lpm_constant2:inst3|lpm_constant:LPM_CONSTANT_component" CBX_FILE_NAME="lpm_constant_6e6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|DIV:inst11|DIVLAYER:inst42|BUSMUX:inst18|lpm_mux:$00000" CBX_FILE_NAME="mux_aoc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|au:inst|mux_au:inst7|lpm_constant0:inst28|lpm_constant:LPM_CONSTANT_component" CBX_FILE_NAME="lpm_constant_ak6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|au:inst|mux_au:inst7|lpm_constant1:inst27|lpm_constant:LPM_CONSTANT_component" CBX_FILE_NAME="lpm_constant_0r6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|BUSMUX:inst13|lpm_mux:$00000" CBX_FILE_NAME="mux_smc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|BUSMUX:inst5|lpm_mux:$00000" CBX_FILE_NAME="mux_boc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|DIV:inst11|DIVLAYER:inst43|BUSMUX:inst18|lpm_mux:$00000" CBX_FILE_NAME="mux_aoc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|DIV:inst11|DIVLAYER:inst52|BUSMUX:inst18|lpm_mux:$00000" CBX_FILE_NAME="mux_aoc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|Shift3:inst3|BUSMUX:inst14|lpm_mux:$00000" CBX_FILE_NAME="mux_boc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|lu:inst1|BUSMUX:inst69|lpm_mux:$00000" CBX_FILE_NAME="mux_boc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|lu:inst1|BUSMUX:inst70|lpm_mux:$00000" CBX_FILE_NAME="mux_boc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|Alucontrol:inst1|lpm_constant3:inst4|lpm_constant:LPM_CONSTANT_component" CBX_FILE_NAME="lpm_constant_7e6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|DIV:inst11|DIVLAYER:inst44|BUSMUX:inst18|lpm_mux:$00000" CBX_FILE_NAME="mux_aoc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|BUSMUX:inst15|lpm_mux:$00000" CBX_FILE_NAME="mux_nmc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|BUSMUX:inst24|lpm_mux:$00000" CBX_FILE_NAME="mux_boc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|BUSMUX:inst6|lpm_mux:$00000" CBX_FILE_NAME="mux_boc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|BUSMUX:inst7|lpm_mux:$00000" CBX_FILE_NAME="mux_boc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|DIV:inst11|DIVLAYER:inst36|BUSMUX:inst18|lpm_mux:$00000" CBX_FILE_NAME="mux_aoc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|DIV:inst11|DIVLAYER:inst45|BUSMUX:inst18|lpm_mux:$00000" CBX_FILE_NAME="mux_aoc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|BUSMUX:inst8|lpm_mux:$00000" CBX_FILE_NAME="mux_boc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|DIV:inst11|DIVLAYER:inst37|BUSMUX:inst18|lpm_mux:$00000" CBX_FILE_NAME="mux_aoc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|DIV:inst11|DIVLAYER:inst46|BUSMUX:inst18|lpm_mux:$00000" CBX_FILE_NAME="mux_aoc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|Shift_1_2:inst6|BUSMUX:inst78|lpm_mux:$00000" CBX_FILE_NAME="mux_boc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|Alucontrol:inst1|BUSMUX:inst|lpm_mux:$00000" CBX_FILE_NAME="mux_omc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|DIV:inst11|BUSMUX:inst17|lpm_mux:$00000" CBX_FILE_NAME="mux_aoc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|DIV:inst11|DIVLAYER:inst38|BUSMUX:inst18|lpm_mux:$00000" CBX_FILE_NAME="mux_aoc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|DIV:inst11|DIVLAYER:inst47|BUSMUX:inst18|lpm_mux:$00000" CBX_FILE_NAME="mux_aoc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|au:inst|mux_au:inst7|BUSMUX:inst5|lpm_mux:$00000" CBX_FILE_NAME="mux_boc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|BUSMUX:inst2|lpm_mux:$00000" CBX_FILE_NAME="mux_boc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|DIV:inst11|DIVLAYER:inst39|BUSMUX:inst18|lpm_mux:$00000" CBX_FILE_NAME="mux_aoc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|DIV:inst11|DIVLAYER:inst48|BUSMUX:inst18|lpm_mux:$00000" CBX_FILE_NAME="mux_aoc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|Shift_1_2:inst6|BUSMUX:inst9|lpm_mux:$00000" CBX_FILE_NAME="mux_boc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|DIV:inst11|DIVLAYER:inst49|BUSMUX:inst18|lpm_mux:$00000" CBX_FILE_NAME="mux_aoc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|BUSMUX:inst3|lpm_mux:$00000" CBX_FILE_NAME="mux_boc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|BUSMUX:inst4|lpm_mux:$00000" CBX_FILE_NAME="mux_boc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|alu:inst27|lu:inst1|BUSMUX:inst68|lpm_mux:$00000" CBX_FILE_NAME="mux_boc.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

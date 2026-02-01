@@ -1,0 +1,161 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Ce118_project\datapath\simulation\qsim
+vDIV
+Z1 IKVGK44iICnIF=z1T@F?mD3
+Z2 V<KVP=P7?kgn<B7WUAP]0Y3
+Z3 dD:\Ce118_project\datapath\simulation\qsim
+Z4 w1764608823
+Z5 8project.vo
+Z6 Fproject.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|project.vo|
+Z9 o-work work -O0
+Z10 n@d@i@v
+Z11 !s100 `1zY6>k60LF0Gi<cNFaF=0
+Z12 !s108 1764608824.297000
+Z13 !s107 project.vo|
+!i10b 1
+!s85 0
+!s101 -O0
+vDIV_vlg_check_tst
+Z14 I1JL=nFAfZ=<^>3`a1:WaK0
+Z15 VOoXbmhWZa`@SZI5KI][@Q1
+R3
+R4
+Z16 8project.vt
+Z17 Fproject.vt
+L0 59
+R7
+r1
+31
+Z18 !s108 1764608824.402000
+Z19 !s107 project.vt|
+Z20 !s90 -work|work|project.vt|
+R9
+Z21 n@d@i@v_vlg_check_tst
+Z22 !s100 B>3?efMXfJ^T8NM7<CZ_Y3
+!i10b 1
+!s85 0
+!s101 -O0
+vDIV_vlg_sample_tst
+Z23 !s100 M0I@8:eX^a5SC^lfUVYC?2
+Z24 IZzgRDgQ14CAE_eH[^fAFV1
+Z25 VT5>m:LOL?06jV4mP[2NJd2
+R3
+R4
+R16
+R17
+L0 29
+R7
+r1
+31
+R18
+R19
+R20
+R9
+Z26 n@d@i@v_vlg_sample_tst
+!i10b 1
+!s85 0
+!s101 -O0
+vDIV_vlg_vec_tst
+Z27 IP7<>]`3XlO1RShZ?i54];3
+Z28 V=o[K=XWDm_39f2P:K[?z[1
+R3
+R4
+R16
+R17
+Z29 L0 423
+R7
+r1
+31
+R18
+R19
+R20
+R9
+Z30 n@d@i@v_vlg_vec_tst
+Z31 !s100 nU]ad7E32^m^6OHDWHGhc0
+!i10b 1
+!s85 0
+!s101 -O0
+vproject
+Z32 !s100 j2lNj=J7MiX`=VGZPdb2<3
+Z33 InGkP`H9_J^S=C<c6WnhP92
+Z34 V?B@lcnfaa0@^lUi16?ZGi2
+Z35 dC:\Users\HP\Downloads\datapath(2)\simulation\qsim
+Z36 w1765797305
+R5
+R6
+L0 31
+R7
+r1
+31
+R8
+R9
+!i10b 1
+!s85 0
+Z37 !s108 1765797306.209000
+R13
+!s101 -O0
+vproject_vlg_check_tst
+!i10b 1
+Z38 !s100 RODh2Fg5AYUn9A4HZGkRl0
+Z39 IDTWcAkO[e<0dM_VJ_C]m<1
+Z40 VHHTFih[BnYIaM;B9zH[1M3
+R35
+R36
+R16
+R17
+L0 57
+R7
+r1
+!s85 0
+31
+Z41 !s108 1765797306.299000
+Z42 !s107 project.vt|
+R20
+!s101 -O0
+R9
+vproject_vlg_sample_tst
+!i10b 1
+Z43 !s100 z:Mf1b`Z7zO<T11;cM5Fz1
+Z44 Ilm?PEIhg7c?OnhMZ9f^6Y0
+Z45 VYBOB89o=5S4]l;EGS[lVc1
+R35
+R36
+R16
+R17
+L0 29
+R7
+r1
+!s85 0
+31
+R41
+R42
+R20
+!s101 -O0
+R9
+vproject_vlg_vec_tst
+!i10b 1
+Z46 !s100 FaoTmSUKAEFAaG]3:C6iT0
+Z47 I9LD:`j63o9AEo8MOH6]aj2
+Z48 VY4_Wl=I:P^c@be^jB:Emk2
+R35
+R36
+R16
+R17
+Z49 L0 2054
+R7
+r1
+!s85 0
+31
+R41
+R42
+R20
+!s101 -O0
+R9
