@@ -13,8 +13,7 @@
 
 ## 📖 Overview
 
-This project involves the design, simulation, and implementation of a **16-bit Microprocessor** based on a custom Simple Instruction Set Architecture (ISA). The project was developed for the **Digital Logic Design (CE118.Q17)** course at the **University of Information Technology - VNU-HCM**.
-
+This project involves the design, simulation, and implementation of a **16-bit Microprocessor** based on a custom Simple Instruction Set Architecture (ISA). 
 The core objective was to implement and compare two different CPU architectures (Single Cycle & Pipeline) to optimize processing performance.
 
 ## 📂 Documentation
