@@ -1,0 +1,9 @@
+# Khử các file rác của Quartus
+**/db/
+**/incremental_db/
+**/output_files/
+**/simulation/
+**/greybox_tmp/
+**/*.qws
+**/*.bak
+**/*.temp
