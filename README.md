@@ -79,16 +79,18 @@ We compared the Single Cycle and Pipeline implementations using two test code se
 
 ## 👥 Contributors (Group 5)
 
-* **Nguyen Dinh Nhat Nguyen** (23521043)
-* Tran Le Minh Dat (23520271)
-* Trinh Nguyen Hoang Long (24521016)
-* Tran Hoang Trung Duc (23520319)
-* Vo Hong Duc (23520323)
-* Ngo Tien Dat (23520254)
-* Tran Quang Nhat (23521102)
-* Vo Thanh Toan (23521611)
-* Nguyen Thanh Hieu (23520486)
-* Le Hung Phat (23521139)
+| No. | Student Name | ID | Key Responsibilities |
+|:---:|:---|:---:|:---|
+| 1 | **Tran Le Minh Dat** | 23520271 | **Team Leader**, ALU Design, Simulation |
+| 2 | Nguyen Dinh Nhat Nguyen | 23521043 | Datapath Design |
+| 3 | Trinh Nguyen Hoang Long | 24521016 | Control Unit Design |
+| 4 | Tran Hoang Trung Duc | 23520319 | Register File Design |
+| 5 | Vo Hong Duc | 23520323 | Hazard Unit Handling |
+| 6 | Ngo Tien Dat | 23520254 | Testing & Verification |
+| 7 | Tran Quang Nhat | 23521102 | Documentation & Resources |
+| 8 | Vo Thanh Toan | 23521611 | Report Writing |
+| 9 | Nguyen Thanh Hieu | 23520486 | Design Support |
+| 10 | Le Hung Phat | 23521139 | Simulation Support |
 
 ---
 *Ho Chi Minh City, December 2025*
